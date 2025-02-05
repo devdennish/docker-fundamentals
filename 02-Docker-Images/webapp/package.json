@@ -1,0 +1,14 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "A simple express app to dockerize it",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dennish Bhattarai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
