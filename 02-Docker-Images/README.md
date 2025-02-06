@@ -39,3 +39,10 @@ docker build -t webapp:v1.0 .
 ```bash
 docker image prune
 ```
+
+# Prerequisites to build an web app
+
+<ol>
+<li> Clone the respository </li>
+<li> Docker, Node.js and NPM installed on your system </li>
+</ol>
